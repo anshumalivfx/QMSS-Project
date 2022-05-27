@@ -9,9 +9,6 @@ This Project Predicts Stock Prices using Linear Regression.
 
 ## Group Members
 - Anshumali Karna
-- Kush Kapoor
-- Yash Kapoor
-- Atharv Singh
 - Atul Sharma
 
 ## Getting Started
